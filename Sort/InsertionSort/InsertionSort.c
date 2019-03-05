@@ -25,7 +25,7 @@ void insertionSort(int arr[], int n, bool printVals) {
 
 int main(void)
 {
-	int arr[] = { 3, 8, 5, 4, 1, 9, -2 };
+	int arr[] = { 13, 4, 7, 2, -1, 5, 8 };
 	int n = sizeof(arr) / sizeof(arr[0]);
 	bool printVals = true;
 	
