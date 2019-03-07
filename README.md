@@ -6,3 +6,4 @@ Feel free to contribute!
 Sort Algorithms Added: 
  - Insertion Sort (Language support: C, JAVA and PHP)
  - Selection Sort (Language support: C, JAVA and PHP)
+ - Bubble Sort (Language support: C, JAVA AND PHP)
